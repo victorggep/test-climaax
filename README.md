@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/http://aurora.upc.es/gonzalez/climaax_public/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victorggep/test-climaax/HEAD)
+
 # FLOODS
 Repository for collaboration on workflows for floods hazard
 
