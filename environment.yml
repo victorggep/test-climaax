@@ -12,6 +12,7 @@ dependencies:
         - pip
         - plotly
         - pyproj
+        - rioxarray        
         - matplotlib
         - pip:
             - netcdf4
