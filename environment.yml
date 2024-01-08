@@ -14,5 +14,6 @@ dependencies:
         - pyproj
         - rioxarray        
         - matplotlib
+        - dask
         - pip:
             - netcdf4
