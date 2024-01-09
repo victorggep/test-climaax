@@ -5,6 +5,7 @@ channels:
 
 dependencies:
         - python=3.11
+        - gdal
         - xarray
         - cartopy
         - scipy
@@ -15,5 +16,7 @@ dependencies:
         - rioxarray        
         - matplotlib
         - dask
+        - leafmap
+        - jupyter-server-proxy
         - pip:
             - netcdf4
