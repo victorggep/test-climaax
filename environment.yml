@@ -18,5 +18,6 @@ dependencies:
         - dask
         - leafmap
         - jupyter-server-proxy
+        - localtileserver
         - pip:
             - netcdf4
