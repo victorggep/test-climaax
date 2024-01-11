@@ -13,6 +13,8 @@ dependencies:
         - jupyterlab
         - ipywidgets
         - ipympl
+        - localtileserver
+        - ipyleaflet
         - pip:
             - damagescanner
             - jupyterlab_myst
