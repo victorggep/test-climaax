@@ -5,18 +5,14 @@ channels:
 
 dependencies:
         - python=3.11
-        - gdal
-        - xarray
-        - cartopy
-        - scipy
-        - cdsapi
-        - pip
-        - plotly
-        - pyproj
-        - rioxarray        
+        - shapely
+        - rasterio
+        - rio-cogeo
         - matplotlib
-        - dask
-        - leafmap
-        - localtileserver
+        - pip
+        - jupyterlab
+        - ipywidgets
+        - ipympl
         - pip:
-            - netcdf4
+            - damagescanner
+            - jupyterlab_myst
