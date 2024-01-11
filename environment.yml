@@ -9,6 +9,7 @@ dependencies:
         - pip
         - jupyterlab
         - ipywidgets
+        - leafmap
         - pip:
             - damagescanner
             - jupyterlab_myst
