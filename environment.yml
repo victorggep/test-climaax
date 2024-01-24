@@ -10,10 +10,20 @@ dependencies:
         - jupyterlab
         - ipywidgets
         - leafmap
+        - netCDF4
+        - dask
+        - xarray
+        - rioxarray
+        - cartopy
+        - scipy
+        - rasterio
+        - numpy
+        - cdsapi
+        - plotly
+        - contextily
         - pip:
             - damagescanner
             - jupyterlab_myst
             - localtileserver[colormaps,jupyter,helpers]==0.7.2
             - shapely
-            - rasterio
             - rio-cogeo
